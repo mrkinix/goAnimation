@@ -1,4 +1,4 @@
-# wiiw
+# Golang animation
 
 ## Project setup
 ```
