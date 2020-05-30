@@ -1,4 +1,5 @@
-# wiiw
+# Golang animation
+Demo: https://golang-chbb.firebaseapp.com
 
 ## Project setup
 ```
